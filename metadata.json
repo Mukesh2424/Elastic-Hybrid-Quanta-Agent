@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Elastic Hybrid Quanta Agent",
+  "description": "A conversational chat agent that uses a simulated ElasticSearch hybrid search (semantic + keyword) and Google's Gemini Pro to retrieve, reason, and respond to user queries.",
+  "requestFramePermissions": []
+}
