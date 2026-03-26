@@ -24,7 +24,7 @@ const Header: React.FC = () => {
               <path d="M12 11.5v-3"></path>
             </svg>
         </div>
-        <h1 className="text-xl font-bold text-gray-100">Elastic Hybrid Quanta Agent</h1>
+        <h1 className="text-xl font-bold text-gray-100">Nexora AI</h1>
       </div>
     </header>
   );
