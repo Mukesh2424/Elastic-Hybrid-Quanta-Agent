@@ -16,7 +16,7 @@ const App: React.FC = () => {
     setMessages([
       {
         id: 'initial-ai-message',
-        text: "Hello! I'm an AI search assistant powered by Elastic and Google Gemini. How can I help you today?",
+        text: "Hello! I'm Nexora an AI search assistant powered by Elastic and Google Gemini. How can I help you today?",
         sender: Sender.AI,
       },
     ]);
