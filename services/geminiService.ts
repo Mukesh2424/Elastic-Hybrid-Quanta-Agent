@@ -3,7 +3,7 @@ import { GoogleGenAI } from "@google/genai";
 import { hybridSearch } from "./elasticService";
 
 // Ensure API_KEY is available in the environment variables
-const apiKey = process.env.API_KEY;
+const apiKey = import.meta.env.VITE_API_KEY;
 if (!apiKey) {
   throw new Error("API_KEY environment variable not set");
 }
