@@ -1,4 +1,4 @@
-⚡ Elastic Hybrid Quanta Agent
+⚡ Elastic Hybrid Quanta Agent(Nexora)
 
 🤖 A Conversational AI Search Assistant powered by Elastic Cloud + Gemini 2.5 Pro
 
